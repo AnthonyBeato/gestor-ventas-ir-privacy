@@ -1,0 +1,1 @@
+# gestor-ventas-ir-privacy
